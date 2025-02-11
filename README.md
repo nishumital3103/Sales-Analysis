@@ -15,5 +15,7 @@ Interactive filters and drill-down features
 # Technologies Used
 
 Power BI (Data Modeling, DAX, Power Query)
-SQL (for data extraction and transformation, if applicable)
+
+SQL (for data extraction and transformation )
+
 Excel (for additional data preprocessing)
